@@ -12,6 +12,7 @@ title: Instituto Fonográfico Tropical
   			<li><a href="#angola" class="filter" data-option-value="angola">angola</a></li>
         <li><a href="#caboverde" class="filter" data-option-value="caboverde">cabo verde</a></li>
         <li><a href="#colombia" class="filter" data-option-value="colombia">colombia</a></li>
+        <li><a href="#congo" class="filter" data-option-value="congo">congo</a></li>
                            
 
   		
@@ -20,12 +21,12 @@ title: Instituto Fonográfico Tropical
 
   <ul id="container" class="row">
     {% for post in site.posts %}
-      <li class="col-lg-6 element {{ post.categories }}">
-      	<a href="{{ post.url }}">
+      <li class="col-lg-6 col-md-6 col-sm-12 col-xs-12 element {{ post.categories }}">
+      	
       	<div class="videoWrapper">
     		{{ post.video[0]}}
 		</div>
-      {{ post.content }}</a>
+      {{ post.content }}
   	  </li>
     {% endfor %}
   </ul>

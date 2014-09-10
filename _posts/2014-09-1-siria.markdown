@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Caboclinha"
+categories: brasil
+video: 
+- <iframe frameborder="0" src="http://bandcamp.com/EmbeddedPlayer/album=4234132083/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/track=1512046547/transparent=true/" seamless><a href="http://analogafrica.bandcamp.com/album/siria">Siriá by Mestre Cupijó e Seu Ritmo (The mythical sound of northern Brasil)</a></iframe>
+---
+
+###  Mestre Cupijó viveu na amazónia circa 1959 com os Quilombos, descendentes de ex-escravos e foragidos da autoridade dados como extintos pela comunidade antropóloga internacional.
+###### {{ page.categories }}
