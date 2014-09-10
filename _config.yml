@@ -1,0 +1,5 @@
+name: Insituto Fonográfico Tropical
+markdown: redcarpet
+pygments: true
+
+permalink: /:title.html

@@ -1,0 +1,72 @@
+---
+layout: default
+title: Instituto Fonográfico Tropical
+---
+
+<div id="home">
+  <ul id="filter" class="option-set top-menu clearfix" data-option-key="filter" >
+
+
+  			<li><a href="#show-all" class="filter" data-option-value="all" class="selected">#</a></li>
+        <li><a href="#brasil" class="filter" data-option-value="brasil">brasil</a></li>
+  			<li><a href="#angola" class="filter" data-option-value="angola">angola</a></li>
+        <li><a href="#caboverde" class="filter" data-option-value="caboverde">cabo verde</a></li>
+        <li><a href="#colombia" class="filter" data-option-value="colombia">colombia</a></li>
+                           
+
+  		
+ </ul>
+ <div class="clearfix"></div>
+
+  <ul id="container" class="row">
+    {% for post in site.posts %}
+      <li class="col-lg-6 element {{ post.categories }}">
+      	<a href="{{ post.url }}">
+      	<div class="videoWrapper">
+    		{{ post.video[0]}}
+		</div>
+      {{ post.content }}</a>
+  	  </li>
+    {% endfor %}
+  </ul>
+</div>
+
+
+<script>
+          $('#container').imagesLoaded(function() {
+        $('#container').isotope({ 
+            itemSelector : '.element' 
+           
+      });
+        
+        $('a.filter').click(function(e) {
+              e.preventDefault();
+          var to_filter = $(this).attr('data-option-value');
+          if(to_filter == 'all') {
+                  $('#container').isotope({filter: '.element'});
+          } else {
+                  $('#container').isotope({filter: '.'+ to_filter});
+          }
+          
+        });
+      });
+
+          // set selected menu items
+   var $optionSets = $('.option-set'),
+       $optionLinks = $optionSets.find('a');
+ 
+       $optionLinks.click(function(){
+          var $this = $(this);
+    // don't proceed if already selected
+    if ( $this.hasClass('selected') ) {
+        return false;
+    }
+   var $optionSet = $this.parents('.option-set');
+   $optionSet.find('.selected').removeClass('selected');
+   $this.addClass('selected'); 
+});
+      
+
+
+
+  </script>

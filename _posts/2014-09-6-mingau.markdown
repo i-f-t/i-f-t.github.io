@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Mingau"
+categories: brasil
+video: 
+- <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/116912678&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>
+---
+
+### O Açaí, "a fruta que chora" (simplificação portuguesa do Tupi), é uma Palmeira que dá bagas. O mingau, é uma mistura de água com um farináceo, conhecido vulgarmente como papa, ou papinha.
+###### {{ page.categories }}

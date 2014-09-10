@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "comboio"
+categories: angola
+video: 
+- <iframe frameborder="0" height="120px" src="http://bandcamp.com/EmbeddedPlayer/album=4215932827/artwork=large/track=4112916409/transparent=true/" seamless></iframe>
+---
+
+### Taxis, Camionetes e Comboios são temas recorrentes da música tropical. Aceitam-se teorias distópicas sobre esta, ou qualquer outra matéria.
+###### {{ page.categories }}
