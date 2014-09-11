@@ -8,13 +8,10 @@ title: Instituto Fonográfico Tropical
 
 
   			<li><a href="#show-all" class="filter" data-option-value="all" class="selected">#</a></li>
-        <li><a href="#brasil" class="filter" data-option-value="brasil">brasil</a></li>
-  			<li><a href="#angola" class="filter" data-option-value="angola">angola</a></li>
-        <li><a href="#caboverde" class="filter" data-option-value="caboverde">cabo verde</a></li>
-        <li><a href="#colombia" class="filter" data-option-value="colombia">colombia</a></li>
-        <li><a href="#congo" class="filter" data-option-value="congo">congo</a></li>
-        <li><a href="#haiti" class="haiti" data-option-value="haiti">haiti</a></li>
-        <li><a href="#nigeria" class="filter" data-option-value="nigeria">nigeria</a></li>
+          {% for category in site.categories %}
+          <li><a href="#{{ category | first }}" class="filter" data-option-value="{{ category | first }}">{{ category | first }}</a></li>
+        {% endfor %}
+
                            
 
   		
