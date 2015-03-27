@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mexe Mexe"
-categories: cabo verde
+categories: cabo-verde
 video: 
 - <iframe width="420" height="315" src="//www.youtube.com/embed/72ixRUJl-aA" frameborder="0" allowfullscreen></iframe>
 ---
