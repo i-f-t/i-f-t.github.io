@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Cumbiera"
+categories: cumbia
+video: 
+- <iframe src="https://bandcamp.com/EmbeddedPlayer/album=111115529/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=big/track=764371964/transparent=true/" seamless></iframe>
+---
+
+### Para quem precisa de dar duas voltas ao campo para aquecimento.
+###### {{ page.categories }}

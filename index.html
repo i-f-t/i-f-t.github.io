@@ -16,10 +16,24 @@ title: Instituto Fonográfico Tropical
 
   		
  </ul>
+  <div class="pagination col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                {% if paginator.previous_page %}
+                  <a href="{{ paginator.previous_page_path }}" class="previous">[-]</a>
+                {% else %}
+                  <span class="previous">[-]</span>
+                {% endif %}
+                <span class="page_number "> {{ paginator.page }} / {{ paginator.total_pages }}</span>
+                {% if paginator.next_page %}
+                  <a href="{{ paginator.next_page_path }}" class="next">[+]</a>
+                {% else %}
+                  <span class="next ">[+]</span>
+                {% endif %}
+                
+              </div>
  <div class="clearfix"></div>
 
   <ul id="container" class="row">
-    {% for post in site.posts %}
+    {% for post in paginator.posts %}
       <li class="col-lg-6 col-md-6 col-sm-12 col-xs-12 element {{ post.categories }}">
       	
       	<div class="videoWrapper">
