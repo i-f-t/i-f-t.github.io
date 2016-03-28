@@ -3,3 +3,7 @@ markdown: redcarpet
 highlighter: pygments
 
 permalink: /:title.html
+
+gems: [jekyll-paginate]
+
+paginate: 10

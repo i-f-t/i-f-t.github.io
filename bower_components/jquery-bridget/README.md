@@ -1,8 +1,8 @@
 # Bridget makes jQuery plugins
 
-Bridget makes a jQuery plugin out of a constructor.
+Bridget makes a jQuery plugin out of a constructor :factory:
 
-It's based off of the [jQuery UI widget factory](http://jqueryui.com/widget/). You should probably use that, since it's very good. I use this, since it's a bit simpler. Used for [Masonry](http://masonry.desandro.com), [Isotope](http://isotope.metafizzy.co), and  [Packery](http://packery.metafizzy.co).
+It's based off of the [jQuery UI widget factory](http://jqueryui.com/widget/). You should probably use that, since it's very good. I use this, since it's a bit simpler. Used for [Masonry](http://masonry.desandro.com), [Isotope](http://isotope.metafizzy.co), [Packery](http://packery.metafizzy.co), [Flickity](http://flickity.metafizzy.co), and [Draggabilly](http://draggabilly.desandro.com).
 
 ## Plugin constructor
 
@@ -38,6 +38,10 @@ Bridget can make this constructor work as a jQuery plugin. The `namespace` is th
 
 ``` js
 // convert constructor to jQuery plugin
+jQueryBridget( 'niceGreeter', NiceGreeter );
+// optional: pass in jQuery variable
+jQueryBridget( 'niceGreeter', NiceGreeter, jQuery );
+// or: use $.bridget
 $.bridget( 'niceGreeter', NiceGreeter );
 
 // now the constructor can be used as a jQuery plugin
@@ -58,17 +62,12 @@ var myGreeter = $elem.data('niceGreeter');
 
 Getter methods can still be used. For jQuery objects with multiple elements, getter methods will return the value of the first element.
 
-## Bower
+## Package managers
 
-Bridget is a [Bower](http://bower.io) component.
+Install with [Bower :bird:](http://bower.io): `bower install jquery-bridget`
 
-``` bash
-bower install jquery-bridget
-```
-## Component
+Install with npm `npm install jquery-bridget`
 
-Bridget can also be installed via [component](http://github.com/component/component).
+## MIT license
 
-``` bash
-component install desandro/jquery-bridget
-```
+Bridget is released under the [MIT license](http://desandro.mit-license.org).
