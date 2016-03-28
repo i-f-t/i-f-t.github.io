@@ -7,4 +7,3 @@ video:
 ---
 
 ### Os Bulimundo são autênticos compositores de mini-operetas de funaná, substituindo instrumentos eléctrico-trónicos pelo tradicional ferro e gaita (nome muito mais apropriado que acordeão diatónico). O estilo é oriundo da ilha de Santiago e chegou a ser considerado rural, como contraponto à cosmopolita morna, mas é hoje um descola-pé popularíssimo de qualquer baile tropical. 
-###### {{ page.categories }}

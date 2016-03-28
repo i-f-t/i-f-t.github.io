@@ -7,4 +7,3 @@ video:
 ---
 
 ### «Ontem dormi com um e hoje com dois»[…]«A minha irmã chora de noite desde que se casou». O sumatório dos grandes dilemas da vida quotidiana.
-###### {{ page.categories }}

@@ -7,4 +7,3 @@ video:
 ---
 
 ### Grandes apreciadores de Alexandre Dumas (pai) equipados a preceito. 
-###### {{ page.categories }}

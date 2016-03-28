@@ -7,4 +7,3 @@ video:
 ---
 
 ###  Mestre Cupijó viveu na amazónia circa 1959 com os Quilombos, descendentes de ex-escravos e foragidos da autoridade dados à data como extintos pela comunidade antropóloga internacional.
-###### {{ page.categories }}

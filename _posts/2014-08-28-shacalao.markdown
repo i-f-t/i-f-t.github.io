@@ -7,4 +7,3 @@ video:
 ---
 
 ### Shacalao foi composto por Lizandro Meza em 1975. A inspiração chegou pela mão da marinha mercante transatlântica, esses seculares missionários culturais.
-###### {{ page.categories }}

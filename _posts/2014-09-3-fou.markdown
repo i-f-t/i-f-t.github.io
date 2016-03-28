@@ -7,4 +7,3 @@ video:
 ---
 
 ### Um Jovem de 60 anos que sopra como um moço de 40, e sorri como um rapazola.
-###### {{ page.categories }}

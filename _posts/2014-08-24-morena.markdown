@@ -7,4 +7,3 @@ video:
 ---
 
 ### O «Rei do Baião» não é um produtor de vinho verde do baixo Tâmega, nem um especialista na assadura de anho.
-###### {{ page.categories }}

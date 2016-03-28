@@ -7,4 +7,3 @@ video:
 ---
 
 ### «Você não pode parar. Se você parar, amanhã você não vai trabalhar» — a experimentar. 
-###### {{ page.categories }}

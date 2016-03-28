@@ -6,5 +6,4 @@ video:
 - <iframe width="420" height="315" src="https://www.youtube.com/embed/i_IqUfreapg" frameborder="0" allowfullscreen></iframe>
 ---
 
-### Guerrilheiro e compositor, foi morto pela vontade unificadora da pátria dos seus correligionários, que temiam a sua popularidade. O Jornal de Angola descreve o seu percurso musical, o gosto pelo malabarismo, a placa erigida com a presença dos herdeiros, mas segundo o que consta no artigo, nasceu para não morrer.
-###### {{ page.categories }}
+###Guerrilheiro e compositor, foi morto pela vontade unificadora da pátria dos seus correligionários, que temiam a sua popularidade. O Jornal de Angola descreve o seu percurso musical, o gosto pelo malabarismo, a placa erigida com a presença dos herdeiros, mas segundo o que consta no artigo, nasceu para não morrer.

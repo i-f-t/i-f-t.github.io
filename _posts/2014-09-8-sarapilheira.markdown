@@ -7,4 +7,3 @@ video:
 ---
 
 ### O Homem para quem a música era apenas uma passatempo.
-###### {{ page.categories }}

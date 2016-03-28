@@ -7,4 +7,3 @@ video:
 ---
 
 ### Sambistas a perecer em tom maior, em cadência, e com batucadas de bamba.
-###### {{ page.categories }}
