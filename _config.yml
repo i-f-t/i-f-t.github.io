@@ -1,6 +1,4 @@
 name: Insituto Fonográfico Tropical
-markdown: redcarpet
-highlighter: pygments
 
 permalink: /:title.html
 
