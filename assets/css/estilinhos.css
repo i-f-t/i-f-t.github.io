@@ -43,6 +43,9 @@ li {
 .sm-caps {
   font-family: 'Roboto Mono', sans-serif;
   letter-spacing: 1px;
+  font-size: 82%;
+  text-transform: uppercase;
+
 }
 a {
   color: rgb(255, 85, 93);
@@ -220,7 +223,7 @@ ul {
   margin-top: 0px;
 }
 .footer .col-xs-12 .sm-caps {
-  color: rgb(255, 85, 93);
+  color: rgb(20, 20, 20);
 }
 .footer ul {
   margin-bottom: 10px;
