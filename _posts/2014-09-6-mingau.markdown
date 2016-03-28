@@ -7,4 +7,3 @@ video:
 ---
 
 ### O Açaí, "a fruta que chora" (simplificação portuguesa do Tupi), é uma Palmeira que dá bagas. O mingau, é uma mistura de água com um farináceo, conhecido vulgarmente como papa, ou papinha.
-###### {{ page.categories }}

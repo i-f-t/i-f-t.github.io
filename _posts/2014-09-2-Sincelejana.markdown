@@ -7,4 +7,3 @@ video:
 ---
 
 ### Sincelejano é o gentílico de Sincelejo, Colombia. Têm uma temperatura média de 27º, dái a inspiração cumbieira só aparecer às duas da manhã.
-###### {{ page.categories }}

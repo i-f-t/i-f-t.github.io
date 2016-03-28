@@ -7,4 +7,3 @@ video:
 ---
 
 ### Para os amantes da camionetagem e de sintetizadores de igreja.
-###### {{ page.categories }}

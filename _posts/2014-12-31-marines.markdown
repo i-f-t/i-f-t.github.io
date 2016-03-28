@@ -7,4 +7,3 @@ video:
 ---
 
 ### Desilusões férreas, transportes alternativos, sputiniques, luniques, os grandes dilemas da locumção do futuro em sertanejo. 
-###### {{ page.categories }}

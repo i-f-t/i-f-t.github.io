@@ -7,4 +7,3 @@ video:
 ---
 
 ### A *Ardillita*, o esquilinho, é uma musa do cancioneiro popular infantil que ao passar pelas mãos do senhor Tulio Leon, renasce como um diabrete electro-dançante. Para grande infelicidade deste mundo, não há esquilos gigantes  suficientes nas nossas pistas de baile.  
-###### {{ page.categories }}

@@ -7,4 +7,3 @@ video:
 ---
 
 ### Tulio Enrique Leon transformou o órgão, esse ex-líbris de sacristia, num instrumento mefistofélico de regabofe cumbiero.
-###### {{ page.categories }}

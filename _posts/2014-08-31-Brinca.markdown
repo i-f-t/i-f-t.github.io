@@ -7,4 +7,3 @@ video:
 ---
 
 ### O Millo, entenda-se pífaro, ou seja gaita, é um instrumento feito para atormentar gerações de jovens meliantes pre-adolescentes. Se atravesssarmos o atlântico, o dito cujo é utilizado pelos adultos para bailar e brincar, tal como podemos observar neste pequeno trecho de Pedro Ramaya Beltrán.
-###### {{ page.categories }}

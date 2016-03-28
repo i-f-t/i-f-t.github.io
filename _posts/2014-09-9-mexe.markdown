@@ -7,4 +7,3 @@ video:
 ---
 
 ### Toda a vivacidade de uma Coladera explicada às criancinhas.
-###### {{ page.categories }}

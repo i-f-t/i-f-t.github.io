@@ -7,4 +7,3 @@ video:
 ---
 
 ### Shakara,foi composto por Fela Kuti em 1972. O seu compositor é um activista fundador do afrobeat, e membro das famílias com degeneresncência musicalopática fenomenalis.
-###### {{ page.categories }}

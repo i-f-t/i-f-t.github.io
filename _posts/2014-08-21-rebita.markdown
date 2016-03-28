@@ -7,4 +7,3 @@ video:
 ---
 
 ### Pequena Ode ao cravanço e à gatunagem.
-###### {{ page.categories }}

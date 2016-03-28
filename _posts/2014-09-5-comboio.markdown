@@ -7,4 +7,3 @@ video:
 ---
 
 ### Taxis, Camionetes e Comboios são temas recorrentes da música tropical. Aceitam-se teorias distópicas sobre esta, ou qualquer outra matéria.
-###### {{ page.categories }}

@@ -7,4 +7,3 @@ video:
 ---
 
 ### Para o Senhor Morgado não tomar a nossa terra… eu vendo o boi para pagar.
-###### {{ page.categories }}

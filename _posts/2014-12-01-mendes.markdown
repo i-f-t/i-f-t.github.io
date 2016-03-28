@@ -7,4 +7,3 @@ video:
 ---
 
 ### Para os amantes da alheira à brás, do frango com molho de leitão e outros travestismos culinários. 
-###### {{ page.categories }}

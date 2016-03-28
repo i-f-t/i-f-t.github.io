@@ -7,4 +7,3 @@ video:
 ---
 
 ### Dia de sol, que não é esquema / Dia de mar, que não é processo / Para nos levar, para lá do retrocesso.
-###### {{ page.categories }}

@@ -7,4 +7,3 @@ video:
 ---
 
 ### O seu léxico diário está encurralado entre enxurradas, chuvadas e tempestades? Sente-se preso de movimentos, estagnado, e esmagado por um sistema burocrático e opressor? Deixe-se envolver pelo livre arbítrio dos finaçon, sem lei nem ordem… à si manera. 
-###### {{ page.categories }}

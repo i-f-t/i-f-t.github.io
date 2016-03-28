@@ -7,4 +7,3 @@ video:
 ---
 
 ### Para quem precisa de dar duas voltas ao campo para aquecimento.
-###### {{ page.categories }}
