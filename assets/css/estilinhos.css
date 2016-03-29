@@ -76,7 +76,7 @@ ul {
 }
 @media (max-width: 767px) {
   .header h1.title {
-
+      font-size: 370%;
   }
 }
 @media (max-width: 767px) {
