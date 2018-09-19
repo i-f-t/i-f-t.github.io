@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Macondo"
+categories: cumbia
+video: 
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/tbwf1AeDcYs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+---
+
+### Não se preocupe. Faço questão em lá ir, seja o lugar ficcionado ou real.
