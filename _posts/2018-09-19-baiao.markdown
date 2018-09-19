@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "baiao"
+categories: brasil
+video: 
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/gbuwgXUaJM4?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+---
+
+### Será Outono? Será Verão? A guitarra diz rock. A percussão diz Baião. O Jornal de Angola descreve o seu percurso musical, o gosto pelo malabarismo, a placa erigida com a presença dos herdeiros, mas segundo o que consta no artigo, nasceu para não morrer.
