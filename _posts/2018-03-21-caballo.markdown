@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "caballo"
+categories: cumbia
+video: 
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/fD7c9oRbwXQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+---
+
+### Cumbia a trote e a galope.
+
