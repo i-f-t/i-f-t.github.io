@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "bacalao"
+categories: cumbia
+video: 
+- <iframe width="560" height="315" src="https://www.youtube.com/embed/mzdj5tfi1Q0?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+---
+
+### Depois de anos de concursos, de campanhas e de publicidade enganosa, eis senão quando, afinal Portugal já tinha sido inventado por um colombiano.
